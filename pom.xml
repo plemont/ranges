@@ -45,4 +45,41 @@
                   </plugin>
         </plugins>
     </build>
+
+    <name>Ranges</name>
+    <description>Library for converting and manipulating ranges for Google Sheets.</description>
+    <url>https://plemont.github.io/ranges</url>
+
+    <organization>
+        <name>io.github.plemont</name>
+        <url>https://github.com/plemont</url>
+    </organization>
+
+    <issueManagement>
+        <system>GitHub</system>
+        <url>https://github.com/plemont/ranges/issues</url>
+    </issueManagement>
+
+    <licenses>
+        <license>
+            <name>Apache License 2.0</name>
+            <url>https://github.com/plemont/ranges/blob/master/LICENSE</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/plemont/ranges</url>
+        <connection>
+            scm:git:git://github.com/plemont/ranges.git
+        </connection>
+        <developerConnection>
+            scm:git:ssh://git@github.com:plemont/ranges.git
+        </developerConnection>
+    </scm>
+    <developers>
+        <developer>
+            <name>Plemont</name>
+        </developer>
+    </developers>
 </project>
