@@ -131,7 +131,7 @@
       scm:git:git://github.com/plemont/ranges.git
     </connection>
     <developerConnection>
-      scm:git:ssh://git@github.com:plemont/ranges.git
+      scm:git:ssh://git@github.com/plemont/ranges.git
     </developerConnection>
     <tag>v1.0</tag>
   </scm>
