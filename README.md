@@ -9,7 +9,21 @@
 
 ## Installation
 
-TBC
+**Ranges** is available from [Maven Central](https://search.maven.org/#artifactdetails%7Cio.github.plemont%7Cranges%7C1.0%7Cjar). Add to your `build.gradle`:
+
+```
+implementation 'io.github.plemont:ranges:1.0'
+```
+
+or with Maven:
+
+```xml
+<dependency>
+    <groupId>io.github.plemont</groupId>
+    <artifactId>ranges</artifactId>
+    <version>1.0</version>
+</dependency>
+```
 
 ## Usage example
 
