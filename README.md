@@ -55,7 +55,7 @@ String range = Ranges.forRange("Test!A1:B2")
     .toRange(); // Translates a range to Test!F6:G7
 ```
 
-For further details on the transformations and conversions possible, see the API documentation.
+For further details on the transformations and conversions possible, see the [API documentation](https://plemont.github.io/ranges/api-docs/).
 
 ## Release History
 
